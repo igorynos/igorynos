@@ -7,9 +7,6 @@ Strong background in microservices architecture, message brokers, and relational
 
 ---
 
-### 🌍 Location  
-Based in Armenia  
-
 ### 🖥️ Portfolio  
 [MyPortfolio](https://docs.google.com/document/d/10ixef2YOCVvCCTp1UHvdBDXVdqdpGiz4csNnsggctNw/edit?tab=t.0)
 
